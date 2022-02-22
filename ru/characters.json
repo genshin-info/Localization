@@ -1,0 +1,77 @@
+[{
+  "name": "дилюк",
+  "image": "1",
+  "description": "ебать дилюк, привет",
+  "vision": "хуй",
+  "rarity": 5,
+  "birthday": "11.11.11",
+  "obtain": "в жопе",
+  "gender": "трассген",
+  "weapontype": "хуй",
+  "region": "расия",
+  "guild": "орда",
+  "art": "алая ведьма",
+  "weapon": "хер",
+  "builds": [
+    {
+      "description": "MAIN DPS",
+      "arts": [
+        "алая ведьма"
+      ],
+      "weapon": "бритва"
+    }
+  ],
+  "ranktierlist": "SS",
+  "constellations": [
+    "{\"name\": \"хуй\", \"image\": \"https://imgs.mrlivixx.me/404.jpg\", \"description\":\"1111\"}"
+  ]
+},{
+  "name": "дилюкsadsdas",
+  "image": "1",
+  "description": "ебать дилюк, привет",
+  "vision": "хуй",
+  "rarity": 5,
+  "birthday": "11.11.11",
+  "obtain": "в жопе",
+  "gender": "трассген",
+  "weapontype": "хуй",
+  "region": "расия",
+  "guild": "орда",
+  "art": "алая ведьма",
+  "weapon": "хер",
+  "builds": [
+    {
+      "description": "MAIN DPS",
+      "arts": [
+        "алая ведьма"
+      ],
+      "weapon": "бритва"
+    }
+  ]
+},{
+  "name": "Гань юй",
+  "image": "1",
+  "description": "",
+  "vision": "Крио",
+  "rarity": 5,
+  "birthday": "11.11.11",
+  "obtain": "Баннер",
+  "gender": "Женский",
+  "weapontype": "Лучник",
+  "region": "Ли Юэ",
+  "guild": "орда",
+  "weapon": "Лучник",
+  "builds": [
+    {
+      "description": "MAIN DPS",
+      "arts": [
+        "алая ведьма"
+      ],
+      "weapon": "бритва"
+    }
+  ],
+  "constellation": [
+    "{\"name\": \"1\", \"image\": \"https://imgs.mrlivixx.me/404.jpg\", \"description\":\"1111\"}"
+  ],
+  "ranktierlist": "SS"
+}]
